@@ -1,2 +1,2 @@
 # vs-code-settings
-[image](immagine.png)
+![alt text](immagine.png "Screenshot")
